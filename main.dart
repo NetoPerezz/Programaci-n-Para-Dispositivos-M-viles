@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multipantallas/bienvenida.dart';
+import 'bienvenida.dart';
 
 // Método main
 void main() {
